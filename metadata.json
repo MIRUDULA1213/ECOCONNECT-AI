@@ -1,0 +1,7 @@
+{
+  "name": "ECOCONNECT AI",
+  "description": "Agentic AI-Powered Waste Tracking & Verified Recycling Platform by NAYASA HackLab",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
